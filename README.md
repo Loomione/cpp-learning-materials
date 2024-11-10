@@ -5,3 +5,4 @@
 3. [c++ 模板元编程教程](https://blog.csdn.net/fl2011sx/article/details/128077440)
 4. [从裸机开始运行一个c++程序](https://blog.csdn.net/fl2011sx/article/details/130681847)
 5. [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
+6. [现代 C++ 模板教程](https://mq-b.github.io/Modern-Cpp-templates-tutorial/)
